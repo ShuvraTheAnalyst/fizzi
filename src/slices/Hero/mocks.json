@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Therefore"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex amet tempor dolore id aliquip dolor duis pariatur enim commodo nulla labore ut. Lorem est qui sint."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ullamco pariatur fugiat consequat pariatur ullamco deserunt aute sunt ex id eu. Consequat incididunt esse anim ut dolore veniam ut cupidatat nisi ea aliquip culpa cillum id."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "stopped",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "1d216006-d25f-4145-be9d-be67019773e6",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com",
+					"text": "peace"
+				}
+			},
+			"canes_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+					"width": 4172,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+				"width": 4172,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "tank",
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Brain"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Esse id est officia et aliquip laborum do aliqua dolor exercitation non fugiat velit. Ex id reprehenderit minim aliquip nulla fugiat do et dolor."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
